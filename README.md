@@ -43,12 +43,15 @@ iii. or Styled-Components
 ## 🌐 Sample Output:
 
 👨‍💼 Jane Doe 
+
 📍 New York City
+
 🎂 Age: 28
 
 [Hide Profile Button]
 
-• When the "Hide Profile" button is clicked, the card should disappear, and the button text should change to "Show Profile".
+• When the "Hide Profile" button is clicked, the card should disappear, and the button text should change to 
+"Show Profile".
 
 ## ✨ Bonus (Optional):
 • Animate the show/hide of the card (e.g., simple fade or slide animation).
