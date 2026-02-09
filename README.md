@@ -19,25 +19,35 @@ Build a simple User Profile Card using React to practice:
 
 ## ✅ Requirements:
 1. Create Two Components:
+
 a. App (Parent)
+
 b. UserCard (Child)
 
 2. Props:
+
 a. Pass user information (name, age, location, avatar URL) from App to UserCard via props.
 
 3. State Management:
+
 a. In App, create a state that controls whether the user card is visible.
 
 4. Event Handling:
+
 a. Add a button in App that toggles the visibility of the user card when clicked.
 
 5. Conditional Rendering:
+
 a. Only show the UserCard when the visibility state is true.
 
 6. Styling:
+
 a. Style the components using either:
+
 i. Tailwind CSS
+
 ii. CSS Modules
+
 iii. or Styled-Components
 
 ## 🌐 Sample Output:
