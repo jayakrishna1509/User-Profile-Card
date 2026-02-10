@@ -24,7 +24,7 @@ function App() {
             name="Jane Doe"  
             location="New York City" 
             age="28"
-            avatarURL="./src/assets/picture.jpg" 
+            avatarURL="/src/assets/picture.jpg" 
           />
         )}
       </div>
