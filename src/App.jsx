@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import './App.css';
 import UserCard from './UserCard';
+import avatar from "./assets/picture.jpg"
 
 function App() {
   const [visible, setVisible] = useState(true);
@@ -24,7 +25,7 @@ function App() {
             name="Jane Doe"  
             location="New York City" 
             age="28"
-            avatarURL="/public/picture.jpg" 
+            avatarURL={avatar}
           />
         )}
       </div>
